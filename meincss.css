@@ -1,0 +1,29 @@
+body {
+	font-family:'Arial';
+}
+
+h9 {
+	font-family:'Arial Black';
+	color: #9bc2e8;
+	font-size: 10em;
+	background:#9bc2e8 ;
+	line-height: 150px;
+	margin: 0px 0px 0px 10px;
+	padding-left: 20px;
+}
+
+h1 {
+	color: #9bc2e8;
+	font-size: 5em;
+	margin-top: 50px;
+	border-bottom: 2px red dotted;
+	overflow: hidden;
+}
+
+p {
+	color: #9bc2e8;
+	line-height: 150%;
+	padding-top: 10px;
+	padding-left: 60px;
+}
+
